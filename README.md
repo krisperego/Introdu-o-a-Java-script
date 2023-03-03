@@ -1,5 +1,5 @@
-# Introdu-o-a-Java-script
+ #Introdução ao Java Script
 
-Equipe: Krisperego e Bernard
+quipe: Krisperego e Bernardo
 
 Prof. Lobo
